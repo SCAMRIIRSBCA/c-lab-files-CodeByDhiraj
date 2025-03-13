@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xfoa1G4Z)
 
-### **C# Practical File Submission **  
+### C# Practical File Submission 
 **Submitted by:** Dhiraj Kumar  
 **Roll No:** 22/FCA/BCA/010  
 **Programme:** Bachelor of Computer Applications (BCA)  
